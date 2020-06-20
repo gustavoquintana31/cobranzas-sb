@@ -1,6 +1,6 @@
 package cast.testapp.cobranzassb.contoller;
 
-import cast.testapp.catastro.entities.DocumentType;
+import cast.testapp.catastro.clientes.DocumentType;
 import cast.testapp.invoice.entities.Invoice;
 import cast.testapp.receipt.controller.ReceiptController;
 import org.springframework.web.bind.annotation.GetMapping;
